@@ -55,17 +55,7 @@ dev_dependencies:
 # The following section is specific to Flutter packages.
 flutter:
   assets:
-    - assets/images/fc3.jpg
-    - assets/images/cod.jpg
-    - assets/images/destiny.jpg
-    - assets/images/apex.jpg
-    - assets/images/game_4.jpg
-    - assets/images/ghost.jpg
-    - assets/images/mk11.jpg
-    - assets/images/mk112.jpg
-    - assets/images/nfs.jpg
-    - assets/images/pubg.jpg
-    - assets/images/vp.jpg
+    - assets/images/
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
