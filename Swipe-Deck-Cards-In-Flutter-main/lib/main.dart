@@ -179,30 +179,20 @@ const IMAGES = [
   "12",
   "13",
   "14",
-  "15",
-  "apex",
-  "cod",
-  "destiny",
-  "nfs",
-  "game_4",
-  "ghost",
-  "mk11",
-  "fc3",
-  "pubg",
-  "mk112"
+  "15"
 ];
 
 const LINKS = [
-  "https://github.com/prasannazzz",
-  "https://github.com/prasannazzz",
-  "https://github.com/prasannazzz",
-  "https://github.com/prasannazzz",
-  "https://github.com/prasannazzz",
-  "https://github.com/prasannazzz",
-  "https://github.com/prasannazzz",
-  "https://github.com/prasannazzz",
-  "https://github.com/prasannazzz",
-  "https://github.com/prasannazzz"
+  // "https://github.com/prasannazzz",
+  // "https://github.com/prasannazzz",
+  // "https://github.com/prasannazzz",
+  // "https://github.com/prasannazzz",
+  // "https://github.com/prasannazzz",
+  // "https://github.com/prasannazzz",
+  // "https://github.com/prasannazzz",
+  // "https://github.com/prasannazzz",
+  // "https://github.com/prasannazzz",
+  // "https://github.com/prasannazzz"
 ];
 
 final borderRadius = BorderRadius.circular(20.0);
