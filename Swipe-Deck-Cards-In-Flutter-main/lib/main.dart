@@ -114,7 +114,7 @@ class _TestPageState extends State<TestPage> with TickerProviderStateMixin {
               width: 400,
               child: Center(
                 child: SwipeDeck(
-                  aspectRatio: 9 / 4,
+                  aspectRatio: 9 / 9,
                   startIndex: 0,
                   emptyIndicator: const Center(child: Text("Nothing Here")),
                   cardSpreadInDegrees: 15,
