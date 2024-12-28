@@ -447,7 +447,7 @@ class _TestPageState extends State<TestPage> with TickerProviderStateMixin {
                   aspectRatio: 8 / 8,
                   startIndex: 0,
                   emptyIndicator: const Center(child: Text("Nothing Here")),
-                  cardSpreadInDegrees: 15,
+                //  cardSpreadInDegrees: 15,
                // baseColor: Colors.blue,
 
                   onSwipeLeft: () {
